@@ -16,27 +16,29 @@ img {
 /* Assign styles here */
 .label{
 	position: absolute;
-
+	color:white;
+	font-size: 16pt;
 }
 
 .top{
-	
+	top:5px;
+
 }
 
 .center{
-
+	top:50%;
 }
 
 .bottom{
-
+	bottom:5px;
 }
 
 .right{
-
+	right:5px;
 }
 
 .left{
-
+	left:5px;
 }
 
 .middle{
