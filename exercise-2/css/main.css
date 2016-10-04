@@ -17,7 +17,7 @@ img {
 .label{
 	position: absolute;
 	color:white;
-	font-size: 16pt;
+	font-size: 1.5em;
 }
 
 .top{
@@ -42,5 +42,6 @@ img {
 }
 
 .middle{
-
+	width:100%;
+	text-align: center
 }
